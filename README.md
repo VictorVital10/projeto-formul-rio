@@ -8,8 +8,6 @@
 ### Segunda tela:
 ![Alt text](img/secondimg.png)
 
-Observação: Essa tela acima ainda não esta completa e uma parte dela esta errada.
-
 ### Terceira tela:
 ![Alt text](img/thirdimg.png)
 

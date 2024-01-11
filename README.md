@@ -1,6 +1,6 @@
 # Formulário Básico 
 
-### Formulário criado em janerio/2024 para praticar conhecimentos em HTML e CSS.
+### Formulário criado em janeiro/2024 para praticar conhecimentos em HTML e CSS.
 
 ### Primeria tela:
 ![Alt text](img/firstimg.png)
